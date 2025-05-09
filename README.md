@@ -142,19 +142,13 @@ Tiga model regresi digunakan untuk memprediksi skor risiko readmisi:
 Model dievaluasi menggunakan tiga metrik yang sesuai untuk regresi:
 
 - **Mean Absolute Error (MAE)**: Mengukur rata-rata kesalahan absolut prediksi, memberikan gambaran akurasi secara langsung.  
-$$
-MAE = \frac{1}{n} \sum |y_i - \hat{y}_i|
-$$
+$$MAE = \frac{1}{n} \sum |y_i - \hat{y}_i|$$
 
 - **Mean Squared Error (MSE)**: Mengukur rata-rata kuadrat kesalahan, sensitif terhadap outlier untuk mengevaluasi kesalahan besar.  
-$$
-MSE = \frac{1}{n} \sum (y_i - \hat{y}_i)^2
-$$
+$$MSE = \frac{1}{n} \sum (y_i - \hat{y}_i)^2$$
 
 - **R²**: Mengukur proporsi varians data yang dijelaskan model, menunjukkan kecocokan model.  
-$$
-R^2 = 1 - \frac{\text{SS}_{\text{res}}}{\text{SS}_{\text{tot}}}
-$$
+$$R^2 = 1 - \frac{\text{SS}\text{res}} {\text{SS}\text{tot}}$$
 
 **Hasil Evaluasi**:
 - **Regresi Linear**:
