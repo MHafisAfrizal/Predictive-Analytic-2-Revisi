@@ -197,7 +197,7 @@ Proyek ini berhasil mengembangkan model regresi untuk memprediksi risiko readmis
 - Dataset kuantitatif dengan 5000 sampel.
 - Dokumentasi lengkap dalam notebook dan laporan.
 - Pendekatan regresi dengan tiga model dan penyetelan hiperparameter.
-- Visualisasi online ([GitHub URL](https://github.com/hafisafrizal/Predictive-Analytic-2-Revisi/tree/main/Feature.png)) dan analisis pentingnya fitur.
+- Visualisasi online ([GitHub URL](https://github.com/MHafisAfrizal/Predictive-Analytic-2-Revisi/tree/main/Feature.png)) dan analisis pentingnya fitur.
 
 **Kelemahan**:
 - R² rendah (0.08–0.11) menunjukkan model kurang kuat, mungkin karena fitur terbatas atau kompleksitas data.
